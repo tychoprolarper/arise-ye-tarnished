@@ -24,9 +24,9 @@ If you're undead, white eyes and undead makeup is enough, but bear in mind you c
 
 ## Kings Crown Tournament 
 ### Rules
-- Duels and Team Deathmatch
+- Duels and Team Deathmatch brackets. 
 - No healing items allowed.
-- The battle is timed (3 minutes); in the end, the winner dons a great crown.
+- The battle is timed (3 minutes) after which the winner is chosen by who has the most hit points. if that is also a draw then sudden death. 
 - The player with the most kills receives two victory points. With equal kills, all players receive one point (a draw).
 - Allies receive credit for every fallen enemy; in Deathmatch, all players except the victim receive credit.
 
