@@ -1,5 +1,5 @@
 # Watchdogs-of-Farron
-_"And soon the flames will fade, and only Dark will remain..."_
+### _"And soon the flames will fade, and only Dark will remain..."_
 
 ## Brief
 A group dedicated to playing characters from various different FromSoftware games including Demon Souls, Dark Souls, Bloodborne and Elden Ring. All of us brought together in Shadow camps for a common purpose: ushering in the Age of Dark. You'll have to join to find out what that exactly means. 
