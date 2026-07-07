@@ -17,5 +17,5 @@ If you don't know the lore of the games well, don't worry, you can be from any p
 ## Costume Requirements
 If you're undead, white eyes and undead makeup is enough, but bear in mind you can take that farther if you wish to be more hollowed. Bloodborne characters (who are never undead) could choose to make themselves look more bestial if they would like. Costumes themselves should be prestige game tier. I'd be more than happy to help in this regard. 
 
-##The Armoury
+## The Armoury
 For future games, I plan on bringing the entire armory and a tent to set it up in. Members have access to the armoury and may store their gear there, squires may use gear for free, shadow camp members may pay a fee to use weapons out of the armoury (think of it like a deposit, except I keep it. So nothing like a deposit at all!)
