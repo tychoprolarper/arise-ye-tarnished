@@ -22,5 +22,13 @@ If you're undead, white eyes and undead makeup is enough, but bear in mind you c
 ## Membership
 
 
+## Kings Crown Tournament 
+### Rules
+- Duels and Team Deathmatch
+- No healing items allowed.
+- The battle is timed (3 minutes); in the end, the winner dons a great crown.
+- The player with the most kills receives two victory points. With equal kills, all players receive one point (a draw).
+- Allies receive credit for every fallen enemy; in Deathmatch, all players except the victim receive credit.
+
 ## The Armoury
 For future games, I plan on bringing the entire armory and a tent to set it up in. Members have access to the armoury and may store their gear there, squires may use gear for free, shadow camp members may pay a fee to use weapons out of the armoury (think of it like a deposit, except I keep it. So nothing like a deposit at all!)
