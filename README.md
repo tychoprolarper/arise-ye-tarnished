@@ -17,7 +17,7 @@ In addition we shall:
 - Flex on 'em
 
 ## Creating characters
-
+None of us are "The Tarnished of no renown", the player character and Tarnished that becomes Elden Lord. 
 
 
 ## Costume Requirements and Style Guide
