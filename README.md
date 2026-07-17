@@ -4,10 +4,11 @@
 ![bonfire](https://raw.githubusercontent.com/tychoprolarper/arise-ye-tarnished/refs/heads/main/Images/walking-around-round-table-hold-as-it-empties-out-is-v0-kpuoslmgh79e1.png)
 
 ## Brief
-A group dedicated to playing characters from various different FromSoftware games including Demon Souls, Dark Souls, Bloodborne and Elden Ring. All of us brought together in Shadow camp for a common purpose: ushering in the Age of Dark. 
 
 ## Goals 
-Fostering a more martial culture and a high emphasis on costuming excellence. In addition we shall:
+Fostering a more martial culture and a high emphasis on costuming excellence. 
+
+In addition we shall:
 
 - Defend the camp from seiges 
 - Be available to escort non warriors to other areas of game
@@ -15,16 +16,15 @@ Fostering a more martial culture and a high emphasis on costuming excellence. In
 - Flex on 'em
 
 ## Creating characters
-Characters should be from one of the Soulsborne games. Even though it's not actually lore, we are assuming that Elden Ring ties all the game **loosely** together. Feel free to use any elements from the games to make your character but do avoid being or being related to any named characters. Being from Astora is fine, being Oscar of Astora is not. **You should probably be a bearer of the Darksign.**
+
 
 *"The flow of time itself is convoluted; with heroes centuries old phasing in and out. The very fabric wavers, and relations shift and obscure."*
 
-If you don't know the lore of the games well, don't worry, you can be from any point in time of the games, so you could be from in between Dark Souls 1 and 2 or even from before or after the events of Demon Souls.
 
 Characters should be largely martial in nature, but spellcasters, clerics and rogues can also be admitted. 
 
 ## Costume Requirements
-If you're undead, white eyes and undead makeup is enough, but bear in mind you can take that farther if you wish to be more hollowed. Bloodborne characters (who are never undead) could choose to make themselves look more bestial if they would like. Costumes themselves should be prestige game tier. I'd be more than happy to help in this regard. 
+
 
 ## Membership and Benefits
 Membership is by vote. Majority vote needed, votes should based of kit and fit with group. 
@@ -32,9 +32,7 @@ Membership is by vote. Majority vote needed, votes should based of kit and fit w
 Benefits include:
 - A shiny medal to identify you as a member
 - Use of the Armoury
-- Access to our unique currency, swordgrass, that can be used to purchase items from the armoury.
--  
-
+- 
 
 ## Kings Crown Tournament 
 ### Rules
