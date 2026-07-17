@@ -18,6 +18,7 @@ In addition we shall:
 
 ## Creating characters
 None of us are "The Tarnished of no renown", the player character and Tarnished that becomes Elden Lord. 
+Your character should be one that can mesh with a group. No one makes a group of spooky loners.
 
 
 ## Costume Requirements and Style Guide
