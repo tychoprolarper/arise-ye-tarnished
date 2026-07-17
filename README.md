@@ -19,9 +19,10 @@ In addition we shall:
 ## Creating characters
 None of us are "The Tarnished of no renown", the player character and Tarnished that becomes Elden Lord. 
 Your character should be one that can mesh with a group. No one makes a group of spooky loners.
-
+Think about character creation in the game. consider the visual language Elden Ring games use. 
 
 ## Costume Requirements 
+In order to join you must have at least 2 versions of your basic kit, and a battle version. 
 
 ## Style Guide
 
@@ -31,7 +32,7 @@ Membership is by vote. Majority vote needed, votes should based of kit and fit w
 Benefits include:
 - A shiny medal to identify you as a member
 - Use of the Armoury
-- 
+  
 
 ## Lord's Crown Tournament 
 ### Rules
