@@ -5,6 +5,7 @@
 
 ## Brief
 
+
 ## Goals 
 Fostering a more martial culture and a high emphasis on costuming excellence. 
 
@@ -34,7 +35,7 @@ Benefits include:
 - Use of the Armoury
 - 
 
-## Kings Crown Tournament 
+## Lord's Crown Tournament 
 ### Rules
 - Duels and Team Deathmatch brackets. 
 - No healing items allowed.
