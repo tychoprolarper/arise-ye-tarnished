@@ -19,12 +19,9 @@ In addition we shall:
 ## Creating characters
 
 
-*"The flow of time itself is convoluted; with heroes centuries old phasing in and out. The very fabric wavers, and relations shift and obscure."*
 
+## Costume Requirements and Style Guide
 
-Characters should be largely martial in nature, but spellcasters, clerics and rogues can also be admitted. 
-
-## Costume Requirements
 
 
 ## Membership and Benefits
